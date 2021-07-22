@@ -2,8 +2,6 @@
 
 A layout clone Tik tok layout
 
-- ![img](https://imgur.com/jiyhw19)
-
 ## Getting Started
 
 A few resources
