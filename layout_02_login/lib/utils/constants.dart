@@ -22,3 +22,18 @@ final kBoxDecorationStyle = BoxDecoration(
     ),
   ],
 );
+
+final headingTextStyle = TextStyle(
+  color: Color.fromRGBO(49, 39, 79, 1),
+  fontWeight: FontWeight.bold,
+  fontSize: 30,
+);
+
+final hintTextStyle = TextStyle(color: Colors.grey[300], fontSize: 13);
+
+final textBtnStyle =
+    TextStyle(color: Colors.grey[300], fontSize: 13);
+
+final textEleBtnStyle =
+    TextStyle(color: Colors.white, fontSize: 20);
+
