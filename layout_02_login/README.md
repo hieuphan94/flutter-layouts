@@ -19,3 +19,13 @@ A few resources
 
 - Github: https://github.com/afgprogrammer/Flutter-Login-Page-Design
 - Youtube: https://www.youtube.com/watch?v=FTz6TVcdh7Y&list=PLf-j0Hs0PF3sIyohisAfO-56N_WcTniNt&index=2
+
+
+## Layout3
+
+<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_02_login/assets/screenshot/layout-login-3.png" height="500em" />
+
+A few resources
+
+- Github: https://github.com/afgprogrammer/Flutter-Login-Page-3
+- Youtube: https://www.youtube.com/watch?v=txvyAO894DY&list=PLf-j0Hs0PF3sIyohisAfO-56N_WcTniNt&index=1
