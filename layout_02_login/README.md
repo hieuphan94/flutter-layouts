@@ -2,9 +2,24 @@
 
 A Login layout
 
-## Getting Started
+## Layout1
+
+### ScreenShot
+
+<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_02_login/assets/screenshot/layout-login2.png" height="500em" />
 
 A few resources
 
 - Github: https://github.com/MarcusNg/flutter_login_ui
 - Youtube: https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA
+
+## Layout2
+
+### ScreenShot
+
+<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_02_login/assets/screenshot/layout-login2.png" height="500em" />
+
+A few resources
+
+- Github: https://github.com/afgprogrammer/Flutter-Login-Page-Design
+- Youtube: https://www.youtube.com/watch?v=FTz6TVcdh7Y&list=PLf-j0Hs0PF3sIyohisAfO-56N_WcTniNt&index=2
