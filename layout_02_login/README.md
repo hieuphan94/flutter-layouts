@@ -1,10 +1,8 @@
 # layout_02_login
 
-A Login layout
+Series Login layouts
 
 ## Layout1
-
-### ScreenShot
 
 <img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_02_login/assets/screenshot/layout-login2.png" height="500em" />
 
@@ -14,8 +12,6 @@ A few resources
 - Youtube: https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA
 
 ## Layout2
-
-### ScreenShot
 
 <img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_02_login/assets/screenshot/layout-login2.png" height="500em" />
 
