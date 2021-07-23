@@ -29,10 +29,28 @@ final headingTextStyle = TextStyle(
   fontSize: 30,
 );
 
+
+final headingTextStyle2 = TextStyle(
+  color: Colors.white,
+  fontWeight: FontWeight.bold,
+  fontSize: 30,
+);
+
+
+final subHeadingTextStyle = TextStyle(
+  color: Colors.white,
+  fontSize: 22,
+);
+
+final normalTextStyle = TextStyle(
+  color: Colors.grey,
+  fontSize: 13,
+);
+
 final hintTextStyle = TextStyle(color: Colors.grey[300], fontSize: 13);
 
 final textBtnStyle =
-    TextStyle(color: Colors.grey[300], fontSize: 13);
+    TextStyle(color: Colors.grey, fontSize: 13);
 
 final textEleBtnStyle =
     TextStyle(color: Colors.white, fontSize: 20);
