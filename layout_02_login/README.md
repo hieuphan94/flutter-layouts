@@ -4,7 +4,7 @@ Series Login layouts
 
 ## Layout1
 
-<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_02_login/assets/screenshot/layout-login2.png" height="500em" />
+<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_02_login/assets/screenshot/layout-login1.png" height="500em" />
 
 A few resources
 
