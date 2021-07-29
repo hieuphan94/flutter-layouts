@@ -6,5 +6,18 @@ import 'package:layout_02_login/login/login4.dart';
 import 'package:layout_02_login/login/login5.dart';
 
 void main() {
-  runApp(Login5());
+  runApp(Home());
 }
+
+class Home extends StatelessWidget {
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: Scaffold(
+        body: Login4(),
+      ),
+    );
+  }
+}
+

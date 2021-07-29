@@ -55,3 +55,7 @@ final textBtnStyle =
 final textEleBtnStyle =
     TextStyle(color: Colors.white, fontSize: 20);
 
+
+
+const kPrimaryColor = Color(0xFF6F35A5);
+const kPrimaryLightColor = Color(0xFFF1E6FF);
