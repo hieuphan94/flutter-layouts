@@ -45,7 +45,43 @@ class Login4 extends StatelessWidget {
             height: size.height * 0.35,
           ),
           SizedBox(height: size.height * 0.03),
-
+          Container(
+            margin: EdgeInsets.symmetric(
+              vertical: 10
+            ),
+            padding: EdgeInsets.symmetric(horizontal: 20, vertical: 5),
+            width: size.width * 0.8,
+            decoration: BoxDecoration(
+              color: Colors.purple[200],
+              borderRadius: BorderRadius.circular(20)
+            ),
+            child: TextField(
+              decoration: InputDecoration(
+                icon: Icon(Icons.home, color: Colors.purple),
+                hintText: "Your email:",
+                border: InputBorder.none
+              ),
+            )
+          ),
+          Container(
+              margin: EdgeInsets.symmetric(
+                  vertical: 10
+              ),
+              padding: EdgeInsets.symmetric(horizontal: 20, vertical: 5),
+              width: size.width * 0.8,
+              decoration: BoxDecoration(
+                  color: Colors.purple[200],
+                  borderRadius: BorderRadius.circular(20)
+              ),
+              child: TextField(
+                decoration: InputDecoration(
+                    icon: Icon(Icons.security, color: Colors.purple),
+                    hintText: "Your password:",
+                    border: InputBorder.none,
+                  suffixIcon: Icon(Icons.visibility, color: Colors.purple,)
+                ),
+              )
+          ),
         ],
       ),
     );
