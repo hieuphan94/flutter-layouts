@@ -1,16 +1,12 @@
 # layout_03_netflix
 
-A new Flutter project.
+A Netflix UI
 
-## Getting Started
+## Layout
 
-This project is a starting point for a Flutter application.
+<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_02_login/assets/screenshot/layout-login-5-welcome.png" height="500em"/>&nbsp;<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_02_login/assets/screenshot/layout-login-5.png" height="500em" />
 
-A few resources to get you started if this is your first Flutter project:
+A few resources
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Github: https://github.com/afgprogrammer/Flutter-Login-Signup-page
+- Youtube: https://www.youtube.com/watch?v=Hq7Wj6DshNs
