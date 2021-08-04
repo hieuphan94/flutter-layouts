@@ -8,3 +8,7 @@ This project is practice layout everyday of me based on resource on the Internet
 
 - Layout 02: Login
 - Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_02_login
+
+
+- Layout 02: Netflix
+- Link-source: https://github.com/hieuphan94/flutter-layouts/tree/master/layout_03_netflix
