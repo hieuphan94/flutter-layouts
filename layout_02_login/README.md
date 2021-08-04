@@ -39,3 +39,12 @@ A few resources
 
 - Github: https://github.com/abuanwar072/Welcome-Login-Signup-Page-Flutter
 - Youtube: https://www.youtube.com/watch?v=ExKYjqgswJg
+
+## Layout5
+
+<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_02_login/assets/screenshot/layout-login-5-welcome.png" height="500em" />
+
+A few resources
+
+- Github: https://github.com/afgprogrammer/Flutter-Login-Signup-page
+- Youtube: https://www.youtube.com/watch?v=Hq7Wj6DshNs
