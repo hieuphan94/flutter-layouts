@@ -8,5 +8,5 @@ A Netflix UI
 
 A few resources
 
-- Github: https://github.com/afgprogrammer/Flutter-Login-Signup-page
-- Youtube: https://www.youtube.com/watch?v=Hq7Wj6DshNs
+- Github: https://github.com/MarcusNg/flutter_netflix_ui_redesign
+- Youtube: https://www.youtube.com/watch?v=sgfMdhV4HQI
