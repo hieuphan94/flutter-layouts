@@ -42,8 +42,6 @@ A few resources
 
 ## Layout5
 
-## ScreenShot
-
 <img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_02_login/assets/screenshot/layout-login-5-welcome.png" height="500em"/>&nbsp;<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_02_login/assets/screenshot/layout-login-5.png" height="500em" />
 
 A few resources
