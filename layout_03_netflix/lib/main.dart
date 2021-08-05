@@ -1,18 +1,17 @@
 import 'package:flutter/material.dart';
+import 'screens/home_screen.dart';
 
 void main() {
-  runApp(Home());
+  runApp(MyApp());
 }
 
-class Home extends StatelessWidget {
-  const Home({Key? key}) : super(key: key);
-
+class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Scaffold(
-        body: Container(),
-      ),
+      title: 'Flutter Netflix UI Redesign',
+      debugShowCheckedModeBanner: false,
+      home: HomeScreen(),
     );
   }
 }
