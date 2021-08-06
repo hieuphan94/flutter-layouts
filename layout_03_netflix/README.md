@@ -4,7 +4,7 @@ A Netflix UI
 
 ## Layout
 
-<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_03_netflix/assets/screenshots/layout-netflix-homescreen.png" height="500em"/>&nbsp;<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_03_netflix/assets/screenshots/layout-netflix-homescreen.png" height="500em" />
+<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_03_netflix/assets/screenshots/layout-netflix-homescreen.png" height="500em"/>&nbsp;<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_03_netflix/assets/screenshots/layout-netflix-homescreen-2.png" height="500em" />&nbsp;<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_03_netflix/assets/screenshots/layout-netflix-moviescreen.png" height="500em" />&nbsp;<img src="https://raw.githubusercontent.com/hieuphan94/flutter-layouts/master/layout_03_netflix/assets/screenshots/layout-netflix-moviescreen-2.png" height="500em" />
 
 A few resources
 
