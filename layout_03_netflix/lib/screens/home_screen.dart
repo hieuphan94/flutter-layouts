@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:layout_03_netflix/models/movie_model.dart';
+import 'package:layout_03_netflix/screens/movie_screen.dart';
 import 'package:layout_03_netflix/widgets/content_scroll.dart';
 class HomeScreen extends StatefulWidget {
   @override
@@ -33,12 +34,12 @@ class _HomeScreenState extends State<HomeScreen> {
         );
       },
       child: GestureDetector(
-        // onTap: () => Navigator.push(
-        //   context,
-        //   MaterialPageRoute(
-        //     // builder: (_) => MovieScreen(movie: movies[index]),
-        //   ),
-        // ),
+        onTap: () => Navigator.push(
+          context,
+          MaterialPageRoute(
+            builder: (_) => MovieScreen(movie: movies[index]),
+          ),
+        ),
         child: Stack(
           children: <Widget>[
             Center(
